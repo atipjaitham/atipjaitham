@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atipjaitham" alt="atipjaitham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_atpx_" target="blank"><img src="https://img.shields.io/twitter/follow/_atpx_?logo=twitter&style=for-the-badge" alt="_atpx_" /></a> </p>
-
 - 🔭 I'm currently looking for a **QA engineer**
 
 - 🌱 I’m currently learning **Selenium with Python**
