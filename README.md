@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ATIP</h1>
+<h1 align="center">Hi 👋, I'm ATIP 愛恬 </h1>
 <h3 align="center">I'm currently a Master's Degree student at National Dong Hwa University in Taiwan.</h3>
 
 
