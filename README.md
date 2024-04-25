@@ -6,9 +6,7 @@
 
 - 🔭 I'm currently looking for a **QA engineer**
 
-- 🌱 I’m currently learning **Selenium with Python**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **Cypress and TypeScript**
 
 - 📫 How to reach me **atip.jait@gmail.com**
 
