@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm ATIP 愛恬 </h1>
 
-<h3 align="center">I'm currently a Master's Degree student at National Dong Hwa University in Taiwan.</h3>
+<h3 align="center">I'm Software Tester in Thailand.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atipjaitham&theme=nord" alt="atipjaitham" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently looking for a **QA engineer**
+- 🔭 I'm currently looking for a **Automation QA Engineer**
 
 - 🌱 I’m currently learning **Cypress and TypeScript**
 
